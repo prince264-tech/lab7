@@ -1,0 +1,7 @@
+<!-- ids.xml -->
+<resources>
+    <item name="button_submit" type="id" />
+    <item name="text_input" type="id" />
+    <item name="getForecast" type="id" />
+    <item name="editText" type="id" />
+</resources>
